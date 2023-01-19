@@ -3,6 +3,7 @@
   "posts": [],
   "comments": [],
   "todos":[],
+
   "library": [
     { 
       "id": 1,
@@ -16,7 +17,7 @@
       "borrowed": false
     }
   ],
-  "other": [{ "name": "sk ismile" }, { "name": "sk ismile2" }],
+  "other": [],
   "data": [ 
     {
       "name": "sk ismile",
