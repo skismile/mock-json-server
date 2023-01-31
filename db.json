@@ -23,6 +23,118 @@
     }
   ],
   "other": [],
+  "food": [
+    {
+      "isVeg": false,
+      "weigth": "25gm",
+      "imageUrl": "assets/images/001_dish.png",
+      "title": "Chicken Masala",
+      "oldPrice": "Rs. 460",
+      "newPrice": "250",
+      "buttonIcon": Icons.add,
+      "description":
+          "An aspect ratio is a proportional relationship between an image's width and height. Essentially",
+    },
+    {
+      "isVeg": true,
+      "weigth": "25gm",
+      "imageUrl": "assets/images/003_dish.png",
+      "title": "Chicken Masala",
+      "oldPrice": "Rs. 460",
+      "newPrice": "250",
+      "buttonIcon": Icons.add,
+      "description":
+          "An aspect ratio is a proportional relationship between an image's width and height. Essentially",
+    },
+    {
+      "isVeg": true,
+      "weigth": "25gm",
+      "imageUrl": "assets/images/005_dish.png",
+      "title": "Chicken Masala",
+      "oldPrice": "Rs. 460",
+      "newPrice": "250",
+      "buttonIcon": Icons.add,
+      "description":
+          "An aspect ratio is a proportional relationship between an image's width and height. Essentially",
+    },
+    {
+      "isVeg": false,
+      "weigth": "25gm",
+      "imageUrl": "assets/images/001_dish.png",
+      "title": "Chicken Masala",
+      "oldPrice": "Rs. 460",
+      "newPrice": "250",
+      "buttonIcon": Icons.add,
+      "description":
+          "An aspect ratio is a proportional relationship between an image's width and height. Essentially",
+    },
+    {
+      "isVeg": true,
+      "weigth": "25gm",
+      "imageUrl": "assets/images/002_dish.png",
+      "title": "Chicken Masala",
+      "oldPrice": "Rs. 460",
+      "newPrice": "250",
+      "buttonIcon": Icons.add,
+      "description":
+          "An aspect ratio is a proportional relationship between an image's width and height. Essentially",
+    },
+    {
+      "isVeg": false,
+      "weigth": "25gm",
+      "imageUrl": "assets/images/003_dish.png",
+      "title": "Chicken Masala",
+      "oldPrice": "Rs. 460",
+      "newPrice": "250",
+      "buttonIcon": Icons.add,
+      "description":
+          "An aspect ratio is a proportional relationship between an image's width and height. Essentially",
+    },
+    {
+      "isVeg": false,
+      "weigth": "25gm",
+      "imageUrl": "assets/images/004_dish.png",
+      "title": "Chicken Masala",
+      "oldPrice": "Rs. 460",
+      "newPrice": "250",
+      "buttonIcon": Icons.add,
+      "description":
+          "An aspect ratio is a proportional relationship between an image's width and height. Essentially",
+    },
+    {
+      "isVeg": true,
+      "weigth": "25gm",
+      "imageUrl": "assets/images/006_dish.png",
+      "title": "Chicken Masala",
+      "oldPrice": "Rs. 460",
+      "newPrice": "250",
+      "buttonIcon": Icons.add,
+      "description":
+          "An aspect ratio is a proportional relationship between an image's width and height. Essentially",
+    },
+    {
+      "isVeg": false,
+      "weigth": "25gm",
+      "imageUrl": "assets/images/005_dish.png",
+      "title": "Chicken Masala",
+      "oldPrice": "Rs. 460",
+      "newPrice": "250",
+      "buttonIcon": Icons.add,
+      "description":
+          "An aspect ratio is a proportional relationship between an image's width and height. Essentially",
+    },
+    {
+      "isVeg": true,
+      "weigth": "25gm",
+      "imageUrl": "assets/images/007_dish.png",
+      "title": "Chicken Masala",
+      "oldPrice": "Rs. 460",
+      "newPrice": "250",
+      "buttonIcon": Icons.add,
+      "description":
+          "An aspect ratio is a proportional relationship between an image's width and height. Essentially",
+    }
+  ],
   "data": [ 
     {
       "name": "sk ismile",
